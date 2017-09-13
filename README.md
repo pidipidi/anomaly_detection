@@ -1,10 +1,11 @@
 # (Multimodal) anomaly detection/classification 
 
-Here are a list of recent (multimodal) anomaly detection/classification papers. Let me know if you want to add any relevant papers in this list. Currently, there is no selection criteria.
+Here are a list of recent (multimodal) anomaly detection/classification papers. I particularly focused on the methods for time-series data. Let me know if you want to add any relevant papers in this list. Currently, there is no selection criteria.
 
 ## Table of Contents
 
 - [Papers](#papers)
+- [Blog](#Blog)
 - [Software](#software)
 
 # Papers
@@ -28,6 +29,11 @@ Here are a list of recent (multimodal) anomaly detection/classification papers. 
 - Anomaly detection in ecg time signals via deep long short-term memory networks, Chauhan and Vig [[pdf]](http://ieeexplore.ieee.org/document/7344872/)
 - Estimating joint movements from observed emg signals with multiple electrodes under sensor failure situations toward safe assistive robot control, Furukawa et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7906627)
 - Data-driven online decision making for autonomous manipulation, Kappler et al. [[pdf]](http://www.roboticsproceedings.org/rss11/p44.pdf)
+
+# Blog
+
+## Multimodality 
+- [[Badripatro's LSTM details]](https://badripatro.wordpress.com/2017/02/)
 
 # Software
 
