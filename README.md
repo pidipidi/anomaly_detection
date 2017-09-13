@@ -1,6 +1,6 @@
 # (Multimodal) anomaly detection/classification 
 
-Here are a list of recent (multimodal) anomaly detection/classification papers. I particularly focused on the methods for time-series data. Let me know if you want to add any relevant papers in this list. Currently, there is no selection criteria.
+Here are a list of recent (multimodal) anomaly detection/classification resources. I particularly focused on the methods for time-series data. Let me know if you want to add any relevant papers in this list. Currently, there is no selection criteria.
 
 ## Table of Contents
 
