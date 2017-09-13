@@ -31,7 +31,6 @@ Here are a list of recent (multimodal) anomaly detection/classification papers. 
 - Data-driven online decision making for autonomous manipulation, Kappler et al. [[pdf]](http://www.roboticsproceedings.org/rss11/p44.pdf)
 
 # Blog
-
 ## Multimodality 
 - [[Badripatro's LSTM details]](https://badripatro.wordpress.com/2017/02/)
 
