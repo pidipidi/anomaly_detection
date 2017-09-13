@@ -5,7 +5,7 @@ Here are a list of recent (multimodal) anomaly detection/classification papers. 
 ## Table of Contents
 
 - [Papers](#papers)
-- [Model Zoo](#software)
+- [Software](#software)
 
 # Papers
 ## 2017
