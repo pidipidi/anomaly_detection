@@ -9,12 +9,15 @@ Here are a list of recent (multimodal) anomaly detection/classification resource
 - [Software](#software)
 
 # Papers
+## 2018
+
+- Multimodal anomaly detection for assistive robots, D. Park et al. [[pdf]]
+- A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder, D. Park et al. [[pdf]](http://ieeexplore.ieee.org/document/8279425/)
+
 ## 2017
 
 - A Multimodal Execution Monitor with Anomaly Classification for Robot-Assisted Feeding (2017), D. Park et al. [[pdf]](http://www.daehyungpark.com/publications/IROS17_1223_FI.pdf)
 - A study of deep convolutional auto-encoders for anomaly detection in videos, Ribeiro et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S0167865517302489/pdfft?md5=3dc9c3bc8696d721bead690e23c65639&pid=1-s2.0-S0167865517302489-main.pdf)
-- Multimodal anomaly detection for assistive robots, D. Park et al. [[pdf]]
-- A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder, D. Park et al. [[pdf]]
 
 ## 2016
 
